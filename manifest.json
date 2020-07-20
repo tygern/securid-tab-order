@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "SecurID Tab Order",
+  "version": "1.0",
+  "description": "Corrects the tab order on the SecurID login page.",
+  "icons": {
+    "48": "icons/tab-48.png",
+    "96": "icons/tab-96.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.auth.securid.com/*"
+      ],
+      "js": [
+        "tab-order.js"
+      ]
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "securid-tab-order@gern.org"
+    }
+  }
+}
