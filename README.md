@@ -2,7 +2,13 @@
 
 A Firefox addon which corrects the tab index on the SecurID login page.
 
-![A screenshot of the input fields](screenshots/inputs.png)
+## Install
+
+[![Install on Firefox](readme-images/firefox-logo.png)](https://addons.mozilla.org/en-US/firefox/addon/securid-tab-order/)
+
+## About
+
+![A screenshot of the input fields](readme-images/inputs.png)
 
 Using the keyboard to navigate from the User ID input field to the Passcode input field on SecurID login pages usually
 takes two tab key presses.
