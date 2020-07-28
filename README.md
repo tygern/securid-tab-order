@@ -5,6 +5,7 @@ A browser extension which corrects the tab index on the SecurID login page.
 ## Install
 
 [![Install on Firefox](readme-images/firefox-logo.png)](https://addons.mozilla.org/en-US/firefox/addon/securid-tab-order/)
+[![Install on Chrome](readme-images/chrome-logo.png)](https://chrome.google.com/webstore/detail/securid-tab-order/fgeehpkbmcdoaadgbafafegcdmfjopbd)
 
 ## About
 
